@@ -1,0 +1,71 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+  background-color: aqua;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px; 
+  height: 30%;
+}
+
+#kepo{
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-items: center;
+  transition: .5s ease-in-out;
+    transition-delay: .2s;
+}
+
+#yy{
+  display: flex;
+  padding: 15px;
+  margin:5px ;
+  color: black;
+  font-size: 25px;
+}
+  
+.tentang{
+  background-color: rgb(125, 104, 145);
+  height: 90%;
+}
+
+#nama{
+  list-style: none;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+}
+
+img{
+ width: 200px;
+ border-radius: 15px;
+ margin-left: 15;
+}
+
+#medsos{
+  font-size: 15px;
+  margin-left: 20px;
+  list-style: none;
+}
+
+.proyek{
+  height: 45PXpx;
+  background-color: rgb(127, 105, 147);
+}
+
+.fot{
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  background-color: antiquewhite;
+  height: 20px;
+  background-color: aqua;
+}
